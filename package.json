@@ -1,0 +1,29 @@
+{
+  "name": "mitt",
+  "version": "1.0.0",
+  "description": "A simple API client",
+  "keywords": [
+    "api",
+    "client",
+    "postman",
+    "bruno"
+  ],
+  "homepage": "https://github.com/axz9582/mitt#readme",
+  "bugs": {
+    "url": "https://github.com/axz9582/mitt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axz9582/mitt.git"
+  },
+  "license": "ISC",
+  "author": "Andrew Zhang",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^35.1.5"
+  }
+}
